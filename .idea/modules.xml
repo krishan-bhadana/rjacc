@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../instaClone/.idea/instaClone.iml" filepath="$PROJECT_DIR$/../instaClone/.idea/instaClone.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rjacc.iml" filepath="$PROJECT_DIR$/.idea/rjacc.iml" />
     </modules>
   </component>
